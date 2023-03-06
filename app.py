@@ -2,7 +2,7 @@ import numpy as np
 from flask import Flask, request, render_template
 import pickle
 
-# Create flask app
+
 app = Flask(__name__)
 model = pickle.load(open("model.pkl", "rb"))
 
