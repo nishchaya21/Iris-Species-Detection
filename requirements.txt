@@ -43,6 +43,7 @@ google-auth-oauthlib @ file:///tmp/build/80754af9/google-auth-oauthlib_161712056
 google-pasta @ file:///Users/ktietz/demo/mc3/conda-bld/google-pasta_1630577991354/work
 greenlet==2.0.2
 grpcio @ file:///Users/builder/miniconda3/envs/prefect/conda-bld/grpcio_1637592347008/work
+gunicorn==20.1.0
 h5py @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_7fnj4n39p5/croots/recipe/h5py_1659091379933/work
 idna @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_00jf0h4zbt/croot/idna_1666125573348/work
 imbalanced-learn @ file:///home/conda/feedstock_root/build_artifacts/imbalanced-learn_1652728311148/work
